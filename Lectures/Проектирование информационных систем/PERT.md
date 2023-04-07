@@ -1,0 +1,1 @@
+T = (1tmin + 4tb + 1tmax)/6
