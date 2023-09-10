@@ -6,17 +6,46 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"Проектирование информационных систем\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1769257
+      }
+    },
+    {
+      "query": "path:Management  ",
+      "color": {
+        "a": 1,
+        "rgb": 2919427
+      }
+    },
+    {
+      "query": "path:\"Мультисервисная архитектура\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2783927
+      }
+    },
+    {
+      "query": "path:\"Русский язык\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15795204
+      }
+    }
+  ],
   "collapse-display": true,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 0.763541666666667,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
+  "centerStrength": 0.3125,
   "repelStrength": 10,
-  "linkStrength": 1,
+  "linkStrength": 0.203125,
   "linkDistance": 250,
-  "scale": 1.3684997664837335,
+  "scale": 2.07547416296635,
   "close": false
 }
