@@ -1,8 +1,5 @@
 {
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "en-US",
-    "ru"
-  ],
+  "spellcheckLanguages": null,
   "vimMode": true
 }
