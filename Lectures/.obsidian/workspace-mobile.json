@@ -4,31 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "3134be44be950411",
-        "type": "tabs",
+        "id": "396fd85fba5b59fe",
+        "type": "split",
         "children": [
           {
-            "id": "e810bd917beed907",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
+            "id": "3134be44be950411",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e810bd917beed907",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9abf7df1a9bbdd9b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Проектирование информационных систем/Проектирование информационных систем.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "9abf7df1a9bbdd9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Management/Проект.md",
-                "mode": "source",
-                "source": false
+            "id": "52f91e8d4388152c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "66d5fcc033e4debe",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
               }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -94,7 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Management/Проект.md",
+            "file": "Проектирование информационных систем/Проектирование информационных систем.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +132,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Management/Проект.md",
+            "file": "Проектирование информационных систем/Проектирование информационных систем.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +144,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Management/Проект.md"
+            "file": "Проектирование информационных систем/Проектирование информационных систем.md"
           }
         }
       }
@@ -142,7 +163,11 @@
   },
   "active": "9abf7df1a9bbdd9b",
   "lastOpenFiles": [
+    "Мультисервисная архитектура/Божественный класс.md",
+    "Мультисервисная архитектура/Синхронное взаимодействие.md",
+    "Мультисервисная архитектура/Обеспечение согласованности.md",
     "Русский язык/Русский язык.md",
+    "Мультисервисная архитектура/Латентность.md",
     "Management/Проект.md",
     "Мультисервисная архитектура/Eventstorming.md",
     "Проектирование информационных систем/PERT.md",

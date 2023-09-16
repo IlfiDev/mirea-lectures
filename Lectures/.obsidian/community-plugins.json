@@ -1,3 +1,13 @@
 [
-  "obsidian-vimrc-support"
+  "obsidian-vimrc-support",
+  "dataview",
+  "obsidian-mind-map",
+  "obsidian-advanced-uri",
+  "obsidian-annotator",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-hover-editor",
+  "obsidian-icon-folder",
+  "obsidian-outliner",
+  "url-into-selection",
+  "obsidian-style-settings"
 ]
