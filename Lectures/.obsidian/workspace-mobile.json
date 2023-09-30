@@ -52,7 +52,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Patroni.md",
+                    "file": "Management/Функциональная организация.md",
                     "mode": "source",
                     "source": false
                   }
@@ -142,7 +142,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Patroni.md",
+            "file": "Management/Функциональная организация.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Patroni.md",
+            "file": "Management/Функциональная организация.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -171,7 +171,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Patroni.md"
+            "file": "Management/Функциональная организация.md"
           }
         }
       }
@@ -188,8 +188,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b425906ccc8c4f8",
+  "active": "439431e0a53f9b8e",
   "lastOpenFiles": [
+    "Management/Проектная организация.md",
+    "Management/Проект.md",
+    "Management/Функциональная организация.md",
+    "Русский язык/Литературные нормы.md",
     "Резервирование.md",
     "Patroni.md",
     "Untitled.canvas",
@@ -199,7 +203,6 @@
     "Мультисервисная архитектура/Синхронное взаимодействие.md",
     "Мультисервисная архитектура/Обеспечение согласованности.md",
     "Мультисервисная архитектура/Латентность.md",
-    "Management/Проект.md",
     "Мультисервисная архитектура/Eventstorming.md",
     "Проектирование информационных систем/PERT.md",
     "Проектирование информационных систем/Six sigma.md",
