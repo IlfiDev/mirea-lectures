@@ -23,27 +23,16 @@
                 "id": "9abf7df1a9bbdd9b",
                 "type": "leaf",
                 "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "Untitled.canvas",
-                    "viewState": {
-                      "x": -839.1389642380576,
-                      "y": -13.410564393487562,
-                      "zoom": -1.2333635391574513
-                    }
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               },
               {
                 "id": "503c3f82e3da1cdf",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Резервирование.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               },
               {
@@ -190,9 +179,10 @@
   },
   "active": "439431e0a53f9b8e",
   "lastOpenFiles": [
+    "TestDataView.md",
+    "Management/Функциональная организация.md",
     "Management/Проектная организация.md",
     "Management/Проект.md",
-    "Management/Функциональная организация.md",
     "Русский язык/Литературные нормы.md",
     "Резервирование.md",
     "Patroni.md",

@@ -1,5 +1,6 @@
 {
   "spellcheck": true,
   "spellcheckLanguages": null,
-  "vimMode": true
+  "vimMode": true,
+  "attachmentFolderPath": "Images"
 }
