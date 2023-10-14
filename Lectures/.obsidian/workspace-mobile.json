@@ -41,7 +41,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Management/Функциональная организация.md",
+                    "file": "Management/Виды ИСР.md",
                     "mode": "source",
                     "source": false
                   }
@@ -131,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Management/Функциональная организация.md",
+            "file": "Management/Виды ИСР.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Management/Функциональная организация.md",
+            "file": "Management/Виды ИСР.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -160,7 +160,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Management/Функциональная организация.md"
+            "file": "Management/Виды ИСР.md"
           }
         }
       }
@@ -179,8 +179,10 @@
   },
   "active": "439431e0a53f9b8e",
   "lastOpenFiles": [
-    "TestDataView.md",
+    "Management/Разработка расписания.md",
+    "Management/Виды ИСР.md",
     "Management/Функциональная организация.md",
+    "TestDataView.md",
     "Management/Проектная организация.md",
     "Management/Проект.md",
     "Русский язык/Литературные нормы.md",
