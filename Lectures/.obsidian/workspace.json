@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Русский язык/Слова.md",
+                "file": "Русский язык/Причастие.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,16 +23,11 @@
             "id": "a967f2abaabe2ac2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Management/Разработка расписания.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Management/Разработка расписания.md",
+                "file": "Русский язык/Причастие.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Management/Разработка расписания.md",
+                "file": "Русский язык/Причастие.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Management/Разработка расписания.md"
+                "file": "Русский язык/Причастие.md"
               }
             }
           },
@@ -177,8 +172,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a967f2abaabe2ac2",
+  "active": "594ebdd701a874d4",
   "lastOpenFiles": [
+    "Images/Pasted image 20231216120129.png",
+    "Русский язык/Прилагательное.md",
+    "Русский язык/Причастие.md",
+    "Русский язык/Слова.md",
+    "Android",
+    "Русский язык/Омонимы.md",
+    "Русский язык/Суффикс.md",
+    "Русский язык/Словообразовательная цепочка.md",
+    "Русский язык/Синонимы.md",
+    "Русский язык/Русский язык.md",
+    "Русский язык/Постфикс.md",
+    "Русский язык/Омофоны.md",
+    "Management/Разработка расписания.md",
     "Management/Исторические данные.md",
     "Management/Метод диаграмм предшествования.md",
     "Management/Виды ИСР.md",
@@ -186,7 +194,6 @@
     "Management/Определение длительности операций.md",
     "Management/Проект.md",
     "Management/Проектная организация.md",
-    "Management/Разработка расписания.md",
     "Management/Функциональная организация.md",
     "Management/Управление сроками проекта.md",
     "Проектирование информационных систем/Проектирование информационных систем.md",
@@ -194,24 +201,13 @@
     "Images/Pasted image 20231011170352.png",
     "Images/Pasted image 20231011165741.png",
     "Images/Pasted image 20231011165646.png",
-    "Русский язык/Слова.md",
     "Images/Pasted image 20231011164506.png",
     "Images/Pasted image 20231011164428.png",
     "Images/Pasted image 20231011164144.png",
-    "Русский язык/Русский язык.md",
     "Русский язык/Контекстные синонимы.md",
     "синонимами.md",
-    "Русский язык/Синонимы.md",
-    "Русский язык/Омофоны.md",
-    "Русский язык/Омонимы.md",
     "Русский язык/Синекдоха.md",
     "Русский язык/Метонимия.md",
-    "TestDataView.md",
-    "Русский язык/Словообразовательная цепочка.md",
-    "Русский язык/Корень.md",
-    "Русский язык/Литературные нормы.md",
-    "Русский язык/Постфикс.md",
-    "Русский язык/Окончание.md",
     "Images",
     "Проектирование информационных систем/Pasted image 20230407192034.png",
     "Images/Pasted image 20230915102452.png",

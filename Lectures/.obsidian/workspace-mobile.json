@@ -41,7 +41,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Management/Виды ИСР.md",
+                    "file": "Русский язык/Причастие.md",
                     "mode": "source",
                     "source": false
                   }
@@ -117,6 +117,16 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "8e403740751b2b7e",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
       }
     ],
     "currentTab": 0
@@ -131,7 +141,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Management/Виды ИСР.md",
+            "file": "Русский язык/Причастие.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -148,7 +158,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Management/Виды ИСР.md",
+            "file": "Русский язык/Причастие.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -160,7 +170,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Management/Виды ИСР.md"
+            "file": "Русский язык/Причастие.md"
           }
         }
       }
@@ -179,8 +189,10 @@
   },
   "active": "439431e0a53f9b8e",
   "lastOpenFiles": [
-    "Management/Разработка расписания.md",
+    "Images/Pasted image 20231216120129.png",
+    "Русский язык/Прилагательное.md",
     "Management/Виды ИСР.md",
+    "Management/Разработка расписания.md",
     "Management/Функциональная организация.md",
     "TestDataView.md",
     "Management/Проектная организация.md",
